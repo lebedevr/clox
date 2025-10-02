@@ -1,8 +1,8 @@
-//
-// Created by Roman Lebedev on 01/10/2025.
-//
+#ifndef clox_common_h
+#define clox_common_h
 
-#ifndef UNTITLED_COMMON_H
-#define UNTITLED_COMMON_H
+#include <stdbool.h>
+#include <stddef.h>
+#include <stdint.h>
 
-#endif //UNTITLED_COMMON_H
+#endif
