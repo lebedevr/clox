@@ -15,4 +15,8 @@ add_executable(untitled main.c
         value.c
         vm.h
         vm.c
+        compiler.h
+        compiler.c
+        scanner.h
+        scanner.c
 )
